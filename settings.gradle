@@ -1,0 +1,1 @@
+include ':app', ':lint', ':lint_aar'
